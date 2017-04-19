@@ -1,0 +1,2 @@
+# Java_Maze_1049
+Creating a algorithm that auto-generates different mazes with different length. The maze is actually a matrix , the walls are represented by "1" and the path by "0". For solving the maze, we used the recursion algorithm , and the route is marked by multiple "x". The mazes are saved in text files. To detect if it's a wall or a free cell we implemented four digital sensors that starts the threads.
